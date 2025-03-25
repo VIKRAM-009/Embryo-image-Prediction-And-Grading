@@ -97,35 +97,7 @@ Edit
 🛠️ Setup Environment
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/embryo-image-prediction.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd embryo-image-prediction
-Create and activate a virtual environment:
-
-bash
-Copy
-Edit
-python -m venv env
-source env/bin/activate  # For Linux/Mac
-env\Scripts\activate  # For Windows
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-🚀 Run Streamlit App
-bash
-Copy
-Edit
-streamlit run streamlit_app/app.py
+ 
 📊 Key Insights & Recommendations
 Consistent Embryo Grading: Reduced interobserver variability by 20%.
 
@@ -147,8 +119,7 @@ Integration with Clinic Management Systems: Automate predictions with real-time 
 
 🤝 Contributors
 Vikram Rautela – Data Scientist & AI Specialist
-
-Mentor: Expert guidance from professionals in the IVF and AI domains.
+Mentor: Expert guidance from professionals of AiSPARY(Data Scientist) and client professionals the IVF and AI domains.
 
 📧 Contact
 For any inquiries or collaboration opportunities, feel free to reach out:
